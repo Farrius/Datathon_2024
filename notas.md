@@ -48,14 +48,13 @@ https://www.sciencedirect.com/science/article/pii/S1877050920316318
 
 #### Preprocessing
 
-• Remove attributes indicating the number of kitchens, bathrooms, and drawing rooms due to their ambiguity.
-• Set the number of living rooms (bedrooms were mistranslated to living rooms) in a range from 1 to 4.
-• Add attribute “distance” indicating the distance of the house from the center of Beijing.
-• Replace attribute “constructionTime” with attribute “age” by deducting the year that the house constructed from
-the current year (2019).
-• Set minimum values for attributes “price” and “area”.
-• Split the attribute “floor” into attributes “floorType” and “floorHeight”.
-• Take outliers into consideration.
+- Remove attributes indicating the number of kitchens, bathrooms, and drawing rooms due to their ambiguity.
+- Set the number of living rooms (bedrooms were mistranslated to living rooms) in a range from 1 to 4.
+- Add attribute “distance” indicating the distance of the house from the center of Beijing.
+- Replace attribute “constructionTime” with attribute “age” by deducting the year that the house was constructed from the current year (2019).
+- Set minimum values for attributes “price” and “area”.
+- Split the attribute “floor” into attributes “floorType” and “floorHeight”.
+- Take outliers into consideration.
 
 #### Descriptiva
 
