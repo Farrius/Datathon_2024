@@ -70,17 +70,17 @@ RandomForestClassifier
 Extreme Gradient Boosting (XGBoost) -> Tree boosting  
 Best technique was Stacked generalization, which consisted of Randome Forest first and then XGBoost
 
-###House price prediction using machine learning
+### House price prediction using machine learning
 https://www.irjet.net/archives/V11/i4/IRJET-V11I4226.pdf
 
 Conclusion is basically the same, Random forest + Gradient boosting seems to work best.
 
-###Predicting housing prices and analyzing real estate market in the Chicago suburbs using Machine Learning
+### Predicting housing prices and analyzing real estate market in the Chicago suburbs using Machine Learning
 https://arxiv.org/abs/2210.06261
 
 Seems that XGBoost is the best
 
-###Predicting Rental Price of Lane Houses in Shanghai with Machine Learning Methods and Large Language Models
+### Predicting Rental Price of Lane Houses in Shanghai with Machine Learning Methods and Large Language Models
 They also say that RF works bets.
 Use MSE, MAE, R2 for error
 
