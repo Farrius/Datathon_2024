@@ -12,3 +12,5 @@ nltk
 spacy   
 statsmodels
 missingno
+requests
+beautifulsoup4
