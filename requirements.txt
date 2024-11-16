@@ -4,3 +4,10 @@ matplotlib
 seaborn
 scikit-learn
 ipykernel
+tensorflow
+keras
+xgboost
+lightgbm
+nltk
+spacy   
+statsmodels
