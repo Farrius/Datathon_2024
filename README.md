@@ -16,6 +16,7 @@ Se deberian añadir los 4 documentos siguientes en el directorio padre del actua
 - **`processed_train.csv`**
 
 ### **Predicciones y resultados**
+En la carpeta resultados_obtenidos tenemos
 - **`GradientBoosting_predictions.csv`**: Predicciones generadas por el modelo Gradient Boosting.
 - **`GradientBoosting_results.csv`**: Métricas de evaluación del modelo Gradient Boosting.
 - **`LinearRegression_predictions.csv`**: Predicciones generadas por el modelo de regresión lineal.
@@ -30,7 +31,6 @@ Se deberian añadir los 4 documentos siguientes en el directorio padre del actua
 ### **Scripts**
 - **`restb.ipynb`**: Notebooks que se encarga de todo el procesamiento de datos.
 - **`models_training.ipynb`**: Notebook para el entrenamiento de diferentes modelos aplicados.
-- **`scrapping.ipynb`**: Notebook para tareas de web scraping.
 
 ### **Otros archivos**
 - **`notas.md`**: Archivo que contiene toda la bibliografia, todos los articulos e información consultada e ideas y observaciones sobre el proyecto.
