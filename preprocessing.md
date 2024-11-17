@@ -1,6 +1,5 @@
 # Preprocessing
 
-- Renombrament
 - Remove attributes indicating the number of kitchens, bathrooms, and drawing rooms due to their ambiguity.
 - Set the number of living rooms (bedrooms were mistranslated to living rooms) in a range from 1 to 4.
 - Add attribute “distance” indicating the distance of the house from the center of Beijing.
